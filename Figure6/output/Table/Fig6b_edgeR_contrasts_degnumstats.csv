@@ -1,0 +1,10 @@
+"","Var2","group","Down","NotSig","Up"
+"1","-1*kit_germfree 1*kit_microbiota","Kit.MvsG",2662,22200,1872
+"2","-1*fls2_germfree 1*fls2_microbiota","fls2.MvsG",2202,23133,1399
+"3","-1*cerk1_germfree 1*cerk1_microbiota","cerk.MvsG",2316,22940,1478
+"4","-1*kit_germfree 1*fls2_germfree","fls2vsKit_germfree",695,25431,608
+"5","-1*kit_germfree 1*cerk1_germfree","cerkvsKit_germfree",19,26591,124
+"6","-1*kit_microbiota 1*fls2_microbiota","fls2vsKit_microbiota",206,26220,308
+"7","-1*kit_microbiota 1*cerk1_microbiota","cerkvsKit_microbiota",110,26308,316
+"8","1*kit_germfree -1*kit_microbiota -1*fls2_germfree 1*fls2_microbiota","con_fls_x_microbiota",565,25553,616
+"9","1*kit_germfree -1*kit_microbiota -1*cerk1_germfree 1*cerk1_microbiota","con_cerk_x_microbiota",2,26732,0
